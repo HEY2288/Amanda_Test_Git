@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://dlvqbxpvlf4iy"]
+
+[ext_resource type="Texture2D" uid="uid://c7q7uoe2sv7hl" path="res://Sprites/OIP.webp" id="1_ig7tw"]
+
+[node name="Main" type="Node2D" unique_id=185760854]
+visible = false
+
+[node name="Player" type="Sprite2D" parent="." unique_id=1140262641]
+texture = ExtResource("1_ig7tw")
